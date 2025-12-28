@@ -1,8 +1,8 @@
 # TwoTrees-SK1-Armbian-Klipper-Firmware
 An Armbian and Klipper firmware for TwoTrees SK1
 
-READ CAREFULLY THIS README. 
-IT'S MANDATORY TO FLASH BOTH MCU AND THR BOARD!
+**READ CAREFULLY THIS README. 
+IT'S MANDATORY TO FLASH BOTH MCU AND THR BOARD!**
 
 TwoTrees SK1 firmware based on Armbian 1.1.3-25.11.0-trunk Ubuntu Noble edge version from Maxim Medvedev.
 
