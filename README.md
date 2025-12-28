@@ -54,7 +54,7 @@ Flash MCU and THR following the tutorial of "tomsbasement" on Github.
 
 Or Kemistr3D video on Youtube:
 
-[https://www.youtube.com/watch?v=FsllmCiCr3Y] (https://www.youtube.com/watch?v=FsllmCiCr3Y)
+[https://www.youtube.com/watch?v=FsllmCiCr3Y](https://www.youtube.com/watch?v=FsllmCiCr3Y)
 
 It's necessary to solder an header (Dupont or better JST X2.54) and build a cable using an old USB cable adapter, where cut the micro USB part.
 
