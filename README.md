@@ -72,7 +72,7 @@ Useful pics of mainboard pinouts:
 
 Firmware is ready with scripts to create belt tension and X/Y input shaper graphs.
 You'll find them into `config/input_shaper` folder.
-Thanks to 3DWork [https://3dwork.io/en/twotrees-sk1-review/]
+Thanks to 3DWork https://3dwork.io/en/twotrees-sk1-review/
 
 <img width="800" height="600" alt="belt-tension-resonances-2024-12-24-204011" src="https://github.com/user-attachments/assets/2fa57fa5-072c-4c8d-9423-875b77851bba" />
 
