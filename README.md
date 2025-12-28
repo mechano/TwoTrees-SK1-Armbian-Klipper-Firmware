@@ -18,6 +18,7 @@ The firmware has Klipper 0.13 and Kiauh software already installed. Use this too
 The main interface is Mainsail, use Kiauh to install FLUIDD.
 
 Crowsnest is already installed and configured for my inexpensive camera module.
+Follow Crowsnest documentation to modify configuration file for you carmera.
 
 Feel free to navigate into the `macro.cfg` file to see macros, modify, add your own macros.
 
