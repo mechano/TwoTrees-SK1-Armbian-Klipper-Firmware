@@ -34,7 +34,7 @@ Built-in Wifi card works out-of-the-box no driver needed. Use this command via s
 
 Using gcodes on USB pendrive is supported, just plug an USB pendrive formatted in FAT32 (not bigger than 32GB), and an sda1 or sda2 (for two pendrives) will appear into gcodes section of Mainsail/FLUIDD.
 
-The screen works with Tortillery project for Artillery Sidewinder X4 printer and is in vertical position, sorry but I'm still dealing to make one specific for SK1.
+The screen works with Tortillery project for Artillery Sidewinder X4 printer and is in vertical position, sorry but I'm still dealing to make one dedicated to SK1.
 **THIS TOOL HAS SOME BUGS: few gcode files are shown in the screen. Use web interface for full gcode view.**
 
 - There's not option to start/stop blower.
