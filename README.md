@@ -48,10 +48,11 @@ If you don't like the vertical screen , don't use it and revert to other project
 
 <img width="721" height="1278" alt="image" src="https://github.com/user-attachments/assets/f35b6304-99bf-4041-a7f9-aae076a0a004" />
 
-Flash MCU and THR following the tutorial of "tomsbasement" on Github
-It's necessary to solder an header (Dupont or better JST X2.54) and build a cable using an old USB cable adapter, where cut the micro USB part.
+Flash MCU and THR following the tutorial of "tomsbasement" on Github.
 
 [https://github.com/tomsbasement/twotrees-sk1?tab=readme-ov-file#upgrade-the-th-board](https://github.com/tomsbasement/twotrees-sk1?tab=readme-ov-file#upgrade-the-th-board)
+
+It's necessary to solder an header (Dupont or better JST X2.54) and build a cable using an old USB cable adapter, where cut the micro USB part.
 
 Using command `make menuconfig` you have to set this parameters for THR with chip RP2040 and MCU with ST32F401 (Follow the tutorial).
 
