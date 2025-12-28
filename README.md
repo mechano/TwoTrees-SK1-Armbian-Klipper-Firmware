@@ -32,8 +32,8 @@ Using gcodes on USB pendrive is supported, just plug an USB pendrive formatted i
 The screen works with Tortillery project for Artillery Sidewinder X4 printer and is in vertical position, sorry but I'm still dealing to make one specific for SK1.
 **THIS TOOL HAS SOME BUGS: few gcode files are shown in the screen. Use web interface for full gcode view.**
 
-- There not option to start/stop blower.
-- Anyway Z-offset works good, moving, temperature work good.
+- There's not option to start/stop blower.
+- Anyway Z-offset, moving, temperature work good.
 - There's also a terminal and if you remember the name of your macros you can write directly like: LOAD_FILAMENT, UNLOAD_FILAMENT.
 
 [https://github.com/CiareCw455/Tortillery](https://github.com/CiareCw455/Tortillery)
