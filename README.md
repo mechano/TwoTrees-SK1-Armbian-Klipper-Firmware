@@ -52,6 +52,10 @@ Flash MCU and THR following the tutorial of "tomsbasement" on Github.
 
 [https://github.com/tomsbasement/twotrees-sk1?tab=readme-ov-file#upgrade-the-th-board](https://github.com/tomsbasement/twotrees-sk1?tab=readme-ov-file#upgrade-the-th-board)
 
+Or Kemistr3D video on Youtube:
+
+[https://www.youtube.com/watch?v=FsllmCiCr3Y] (https://www.youtube.com/watch?v=FsllmCiCr3Y)
+
 It's necessary to solder an header (Dupont or better JST X2.54) and build a cable using an old USB cable adapter, where cut the micro USB part.
 
 Using command `make menuconfig` you have to set this parameters for THR with chip RP2040 and MCU with ST32F401 (Follow the tutorial).
