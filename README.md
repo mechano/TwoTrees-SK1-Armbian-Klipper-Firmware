@@ -8,7 +8,7 @@ TwoTrees SK1 firmware based on Armbian 1.1.3-25.11.0-trunk Ubuntu Noble edge ver
 
 [https://github.com/redrathnure/armbian-mkspi](https://github.com/redrathnure/armbian-mkspi)
 
-Ubuntu Noble is an LTS (Long Time Support) that will get update till year 2034.
+Ubuntu Noble is an LTS (Long-Term Support) that will get update till year 2034.
 
 Shell user `mks` password `makerbase` is already configured and home directory is `/home/mks`
 It's possible to enter using also `root` password `makerbase`
