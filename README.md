@@ -43,7 +43,7 @@ The screen works with Tortillery project for Artillery Sidewinder X4 printer and
 
 [https://github.com/CiareCw455/Tortillery](https://github.com/CiareCw455/Tortillery)
 
-If you don't like the vertical screen , don't use it and revert to other projects like the CYD-Klipper screen.
+If you don't like the vertical screen, don't use it and revert to other projects like the CYD-Klipper screen.
 
 [https://github.com/suchmememanyskill/CYD-Klipper](https://github.com/suchmememanyskill/CYD-Klipper)
 
