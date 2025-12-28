@@ -19,6 +19,10 @@ The main interface is Mainsail, use Kiauh to install FLUIDD.
 
 Crowsnest is already installed and configured for my inexpensive camera module.
 
+Feel free to navigate into the `macro.cfg` file to see macros, modify, add your own macros.
+
+When the filament touch filament runout sensor get grabbed by extruder gear, ready for run `LOAD_FILAMENT` macro.
+
 It receives an IP address thru the ethernet port. So you can enter using an SSH client like Putty.
 The firmware has Avahi daemon already installed and the hostname you'll use on the network is `twotrees.local`
 So if your computer has Avahi client installed you can use URL `http://twotrees.local` to access the web interface.
