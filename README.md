@@ -24,9 +24,13 @@ If you don't like the vertical screen , don't use it and revert to other project
 
 <img width="910" height="475" alt="Schermata da 2025-03-01 11-20-39" src="https://github.com/user-attachments/assets/29e138e1-c40a-47a1-953f-d2f628d8081f" />
 
+Useful pics of mainboard pinouts:
+
 ![sk1-pinout-diagrams-mcu](https://github.com/user-attachments/assets/8af735ca-3220-4c45-96fe-e3291a56c518)
 
 ![sk1-pinout-diagrams-thr](https://github.com/user-attachments/assets/ceb6e370-5755-4d33-96b4-e930fce04d35)
+
+Firmware is ready with scripts to create belt tension and X/Y input shaper graphs:
 
 <img width="800" height="600" alt="belt-tension-resonances-2024-12-24-204011" src="https://github.com/user-attachments/assets/2fa57fa5-072c-4c8d-9423-875b77851bba" />
 
