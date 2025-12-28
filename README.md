@@ -52,7 +52,7 @@ Flash MCU and THR following the tutorial of "tomsbasement" on Github.
 
 [https://github.com/tomsbasement/twotrees-sk1?tab=readme-ov-file#upgrade-the-th-board](https://github.com/tomsbasement/twotrees-sk1?tab=readme-ov-file#upgrade-the-th-board)
 
-Or Kemistr3D video on Youtube:
+Or Zemistr3D video on Youtube:
 
 [https://www.youtube.com/watch?v=FsllmCiCr3Y](https://www.youtube.com/watch?v=FsllmCiCr3Y)
 
