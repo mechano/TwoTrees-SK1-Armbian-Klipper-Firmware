@@ -22,7 +22,7 @@ Follow Crowsnest documentation to modify configuration file for you carmera.
 
 Feel free to navigate into the `macro.cfg` file to see macros, modify, add your own macros.
 
-When the filament touch filament runout sensor get grabbed by extruder gear, ready for run `LOAD_FILAMENT` macro.
+When the filament runout sensor is triggered it grabs filament with gears, ready for run `LOAD_FILAMENT` macro.
 
 It receives an IP address thru the ethernet port. So you can enter using an SSH client like Putty.
 The firmware has Avahi daemon already installed and the hostname you'll use on the network is `twotrees.local`
