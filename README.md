@@ -32,6 +32,8 @@ Built-in Wifi card works out-of-the-box no driver needed. Use this command via s
 
 `sudo nmcli dev wifi connect "YOUR_SSID" password "YOUR_PASSWORD"`
 
+The configuration will be persistent on future reboot. I had problem that it didn't persist at first attempt, just tried again the command and it was configured.
+
 Using gcodes on USB pendrive is supported, just plug an USB pendrive formatted in FAT32 (not bigger than 32GB), and an sda1 or sda2 (for two pendrives) will appear into gcodes section of Mainsail/FLUIDD.
 
 The screen works with Tortillery project for Artillery Sidewinder X4 printer and is in vertical position, sorry but I'm still dealing to make one dedicated to SK1.
